@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Bahama Oriole Project](projects/project1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="../images/BOP_Poster.png?raw=true"/>
 
 ---
 [Anarctica Analysis](/projects/project2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="../images/anarctica.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
