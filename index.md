@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
-[Project 1 Title](/projects/project1.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1](/projects/project1.md)
+<img src=".../images/baltimore_wealth_waste_poster.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
