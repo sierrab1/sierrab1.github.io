@@ -9,7 +9,7 @@
 
 ---
 [Anarctica Analysis](/projects/project2)
-<img src="../images/anarctica.png?raw=true"/>
+<img src="../images/antarctica.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
