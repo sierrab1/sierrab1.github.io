@@ -4,4 +4,4 @@
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/baltimore_wealth_waste_poster.png?raw=true"/>
+<img src="../images/baltimore_wealth_waste_poster.png?raw=true"/>
