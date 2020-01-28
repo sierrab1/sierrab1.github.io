@@ -4,4 +4,4 @@
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/BOP_Poster.png?raw=true"/>
+<img src="../images/BOP_Poster.png?raw=true"/>
