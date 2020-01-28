@@ -12,7 +12,7 @@
 <img src="../images/antarctica.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Baltimore Brownfield Sites](http://example.com/)
 <img src="../images/baltimore.png?raw=true"/>
 
 ---
