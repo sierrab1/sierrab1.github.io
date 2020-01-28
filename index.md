@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](projects/project1)
+[Bahama Oriole Project](projects/project1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/projects/project2)
+[Anarctica Analysis](/projects/project2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
