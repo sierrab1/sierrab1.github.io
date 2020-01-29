@@ -1,0 +1,34 @@
+baseURL: "https://sierrab1.github.io/"
+languageCode: "en-us"
+title: "My Portfolio"
+theme: "creative"
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+params:
+  style: default
+  description: Describe your website
+  copyright: '&copy;2016 Your name or company'
+  sidebarAbout:
+    - >-
+      I am a creative illustrator and graphic designer with more than 10 years
+      of experience.
+    - 'Originally from Toronto, currently based in London.'
+  email: you@yoursite.com
+  navlinks:
+    - name: Home
+      url: portfolio/
+      home: true
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  social:
+    facebook: full page or profile url in facebook
+    googleplus: full profile url in googleplus
+    email: email@example.com
+    twitter: full profile url in twitter
+    linkedin: full profile url in linkedin
+    stackoverflow: full profile url in stackoverflow
+    instagram: full profile url in instagram
+    github: full profile url in github
+    youtube: full profile url in youtube
+    whatsapp: wa.me service link
