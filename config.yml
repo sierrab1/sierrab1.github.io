@@ -2,8 +2,8 @@ baseURL: "https://sierrab1.github.io/"
 languageCode: "en-us"
 title: "My Portfolio"
 theme: "creative"
-logo: "me_lowres.jpg?raw=true" # your photo (or logo) here
 params:
+  profile: "/me_lowres.jpg?raw=true" # your photo (or logo) here
   style: sea
   description: Describe your website
   copyright: '&copy;2016 Your name or company'
