@@ -5,6 +5,7 @@ image: "baltimore_wealth_waste_poster.png"
 date: "2016-11-05T18:25:22+05:30"
 title: "Baltimore Wealth and Waste Infographic"
 weight: 0
+description: "Im not stupid"
 ---
 ## Project description
 
