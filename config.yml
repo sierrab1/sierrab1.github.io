@@ -8,6 +8,8 @@ params:
   description: Describe your website
   copyright: '&copy;2016 Your name or company'
   sidebarAbout:
+    -
+    - 'Sierra Barkdoll'
     - >-
       Geography and Environmental Systems, B.S.
       <br/>
@@ -17,7 +19,6 @@ params:
       <br/>
       University of Maryland, Baltimore County
 
-    - 'Maryland Native'
   email: sierrabarkdoll@yahoo.com
   navlinks:
     - name: Portfolio
@@ -27,6 +28,6 @@ params:
       url: about/
   social:
     email: sierrabarkdoll@yahoo.com
-    linkedin: full profile url in linkedin
-    github: full profile url in github
-    whatsapp: wa.me service link
+    linkedin: https://www.linkedin.com/in/sierra-barkdoll-14b6abab
+    github: https://github.com/sierrab1
+    whatsapp: https://wa.me/14104582721
