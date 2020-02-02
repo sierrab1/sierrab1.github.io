@@ -2,7 +2,7 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     <figure class="sidebar-profile">
-      <img src="{{ .Site.Params.Profile }}" style="border-radius:50%;" />
+      <img src="{{ .Site.Params.Profile }}" />
     </figure>
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
@@ -17,8 +17,9 @@
     <div class="copyright">
       <p class="credit">
         {{ with .Site.Params.copyright }}
-          {{ . | safeHTML }} |
+          {{ . | safeHTML }}
         {{ end }}
+        <br/>
         {{ partial "attribution.html" . }}
       </p>
     </div>
