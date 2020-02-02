@@ -1,23 +1,17 @@
 baseURL: "https://sierrab1.github.io/"
 languageCode: "en-us"
-title: "My Portfolio"
+title: "Sierra Barkdoll"
 theme: "creative"
 params:
   profile: "/me_lowres.jpg?raw=true" # your photo (or logo) here
   style: sea
   description: Describe your website
-  copyright: '&copy;2016 Your name or company'
+  copyright: '&copy;2020 Sierra Barkdoll'
   sidebarAbout:
-    -
-    - 'Sierra Barkdoll'
-    - >-
-      Geography and Environmental Systems, B.S.
-      <br/>
-      Biology Minor
-      <br/>
-      GIS Certificate
-      <br/>
-      University of Maryland, Baltimore County
+    - Geography and Environmental Systems, B.S.
+    - Biology Minor
+    - GIS Certificate
+    - University of Maryland, Baltimore County
 
   email: sierrabarkdoll@yahoo.com
   navlinks:
