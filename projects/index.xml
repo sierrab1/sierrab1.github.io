@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sierra Barkdoll</title>
+    <link>https://sierrab1.github.io/projects/</link>
+    <description>Recent content in Projects on Sierra Barkdoll</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://sierrab1.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bahama Oriole Conservation Research</title>
+      <link>https://sierrab1.github.io/projects/bahoresearch/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sierrab1.github.io/projects/bahoresearch/</guid>
+      <description>Project description This research resulted from my time with the Bahama Oriole Project, a collaboration between the Omland Lab of the University of Maryland, Baltimore County, and the Bahamas National Trust. The Bahama Oriole is a critically endangered songbird endemic to Andros island. Known as a brood parasite, the shiny cowbird lays its eggs in oriole nests to be raised by the oriole parents. To ensure parasitism success, cowbirds peck and kill existing oriole eggs.</description>
+    </item>
+    
+    <item>
+      <title>Baltimore Wealth and Waste Infographic</title>
+      <link>https://sierrab1.github.io/projects/baltimorewealthwaste/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sierrab1.github.io/projects/baltimorewealthwaste/</guid>
+      <description>Project description This project was in partnership with Benjamin Franklin High School in Baltimore, MD. The goal was to analyze patterns between income, and generated waste and display them in an artistic and readable infographic. We found that higher income neighborhoods are producing more trash than lower income neighborhoods. Unfortunately, much of this trash is incinerated via the Wheelabrator Incinerator in the low income area of Westport. These findings were presented to city leaders to inspire change in the way we handle trash, especially in low income communities.</description>
+    </item>
+    
+    <item>
+      <title>Art and Human Health in Baltimore</title>
+      <link>https://sierrab1.github.io/projects/doesartcleanalleys/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sierrab1.github.io/projects/doesartcleanalleys/</guid>
+      <description>Project description This project analyzes the relationship between beautification of spaces and public cleanliness. We found that low-income neighborhoods habe more art murals but also more reports of dirty alleys. If given the resources, further research into this topic may reveal more obvious connections or patterns.
+View My Project PDF</description>
+    </item>
+    
+  </channel>
+</rss>
