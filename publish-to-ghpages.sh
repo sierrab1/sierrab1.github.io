@@ -23,7 +23,7 @@ echo "Generating site"
 ../hugo
 
 echo "Updating publish branch (for you it's master)"
-cd public && git add --all && git commit -m "Publishing to master (publish.sh)"
+cd public && git add --all && git commit -m "Publish updates"
 
 echo "Pushing to GitHub"
 git push --all
