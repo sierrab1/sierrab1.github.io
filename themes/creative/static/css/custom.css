@@ -1,6 +1,22 @@
 /* your styles go here */
 
+.sidebar-heading {
+    font-size: 2.5rem;
+}
+
+.sidebar-p {
+    font-size: 1.75rem;
+    margin: .5rem 0;
+}
+
+.sidebar-content {
+    max-width: 380px;
+}
+
 .sidebar-profile {
-    padding: 2rem;
-    margin: 2rem;
+    margin-bottom: 2rem;
+}
+
+.sidebar-menu {
+    margin: 4rem 0;
 }
