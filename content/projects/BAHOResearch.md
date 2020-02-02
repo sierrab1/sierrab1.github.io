@@ -4,7 +4,7 @@ draft: false
 image: "BAHOposter.png"
 date: "2016-11-05T18:25:22+05:30"
 title: "Bahama Oriole Conservation Research"
-weight: 0
+weight: 1
 description: "Research Poster on threat to critically endangered Bahama oriole."
 ---
 

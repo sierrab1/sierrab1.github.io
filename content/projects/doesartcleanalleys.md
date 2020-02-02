@@ -4,7 +4,7 @@ draft: false
 image: "artalleys.PNG"
 date: "2016-11-05T18:25:22+05:30"
 title: "Art and Human Health in Baltimore"
-weight: 0
+weight: 3
 description: "Infographic on relationship between beautification of spaces and public clealiness in Baltimore, MD."
 ---
 ## Project description

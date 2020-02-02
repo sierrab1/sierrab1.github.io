@@ -4,7 +4,7 @@ draft: false
 image: "baltimore_wealth_waste_poster.png"
 date: "2016-11-05T18:25:22+05:30"
 title: "Baltimore Wealth and Waste Infographic"
-weight: 0
+weight: 2
 description: "Infographic that displays patterns between incomes and generated waste in Baltimore, MD."
 ---
 ## Project description
