@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Bahama Oriole Project](projects/project1)
 <img src="../images/BOP_Poster.png?raw=true"/>
 
@@ -17,13 +15,6 @@
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
