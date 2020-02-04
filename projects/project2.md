@@ -1,7 +1,7 @@
 ## Project 2
 
-**Project description:**
+This was my cumulative 4 year project studying the presence of wildlife at Eden Mill Nature Center.
 
-### 3. Analysis of bedrock elevation after the southern ice cap melts.
+### 
 
-<img src="../images/antarctica.png?raw=true"/>
+<img src="../images/capstone.png?raw=true"/>
