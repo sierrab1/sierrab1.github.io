@@ -4,4 +4,4 @@ This was my cumulative 4 year project studying the presence of wildlife at Eden 
 
 ### Wildlife Study
 
-<img src="../images/capstone.png?raw=true"/>
+<img src="../images/capstone.PNG?raw=true"/>
