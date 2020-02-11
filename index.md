@@ -7,11 +7,11 @@
 
 ---
 [Wildlife Analysis](/projects/project2)
-<img src="../images/clipcap.PNG?raw=true"/>
+<img src="../images/clipcap.png?raw=true"/>
 
 ---
 [Baltimore Brownfield Sites](http://example.com/)
-<img src="../images/untitled.png?raw=true"/>
+<img src="../images/Untitled.png?raw=true"/>
 
 ---
 
