@@ -1,6 +1,6 @@
 ## Project 3
 
-**Project description:**
+This project analyses the Brownfield Sites in Baltimore.
 
 ### 3. Brownfield sites in Baltimore 
 
