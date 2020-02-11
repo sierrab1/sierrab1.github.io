@@ -3,15 +3,15 @@
 ---
 
 [Bahama Oriole Project](projects/project1)
-<img src="../images/BOP_Poster.png?raw=true"/>
+<img src="../images/cat_frog.png?raw=true"/>
 
 ---
 [Wildlife Analysis](/projects/project2)
-<img src="../images/capstone.PNG?raw=true"/>
+<img src="../images/clipcap.PNG?raw=true"/>
 
 ---
 [Baltimore Brownfield Sites](http://example.com/)
-<img src="../images/baltimore.png?raw=true"/>
+<img src="../images/untitled.png?raw=true"/>
 
 ---
 
