@@ -1,7 +1,8 @@
 /* your styles go here */
 
-.sidebar-heading {
-    font-size: 2.5rem;
+.sidebar-heading a {
+    font-size: 3.5rem;
+    color: #379392;
 }
 
 .sidebar-p {
