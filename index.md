@@ -10,6 +10,10 @@
 [<img src="../images/clipcap.png?raw=true"/>](projects/project2)
 
 ---
+[Wildlife Analysis](/project2)
+[<img src="../images/clipcap.png?raw=true"/>](projects/project2)
+
+---
 [Baltimore Brownfield Sites](projects/project3)
 [<img src="../images/Untitled.png?raw=true"/>](projects/project3)
 
