@@ -10,8 +10,8 @@
 [<img src="../images/clipcap.png?raw=true"/>](projects/project2)
 
 ---
-[Wildlife Analysis](/qgis2web_2020_02_16-11_15_26_455775)
-[<img src="../images/clipcap.png?raw=true"/>](projects/project2)
+[Chesapeake Bay Conservation Areas in Harford County](/qgis2web_2020_02_16-11_15_26_455775)
+[<img src="../images/harco.png?raw=true"/>](/qgis2web_2020_02_16-11_15_26_455775)
 
 ---
 [Baltimore Brownfield Sites](projects/project3)
