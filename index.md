@@ -10,7 +10,7 @@
 [<img src="../images/clipcap.png?raw=true"/>](projects/project2)
 
 ---
-[Wildlife Analysis](/project2)
+[Wildlife Analysis](/qgis2web_2020_02_16-11_15_26_455775)
 [<img src="../images/clipcap.png?raw=true"/>](projects/project2)
 
 ---
