@@ -11,7 +11,7 @@
 
 ---
 [Chesapeake Bay Conservation Areas in Harford County](/qgis2web_2020_02_16-11_15_26_455775)
-[<img src="../images/harco.png?raw=true"/>](/qgis2web_2020_02_16-11_15_26_455775)
+[<img src="../images/harcooo.png?raw=true"/>](/qgis2web_2020_02_16-11_15_26_455775)
 
 ---
 [Baltimore Brownfield Sites](projects/project3)
