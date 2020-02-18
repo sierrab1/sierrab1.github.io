@@ -1,11 +1,11 @@
 ---
 showonlyimage: true
 draft: false
-image: "BAHOposter.png"
+image: "wm_example.PNG"
 date: "2016-11-05T18:25:22+05:30"
-title: "Bahama Oriole Conservation Research"
+title: "Baltimore Vacant Lots Webmap"
 weight: 4
-description: "Research Poster on threat to critically endangered Bahama oriole."
+description: "This is a QGIS2webmap map created for advances GIS course"
 ---
 
 ## Project description
