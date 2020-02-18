@@ -5,7 +5,7 @@ image: "wm_example.PNG"
 date: "2016-11-05T18:25:22+05:30"
 title: "Baltimore Vacant Lots Webmap"
 weight: 4
-description: "This is a QGIS2webmap leaflet webmap created for an advances GIS course."
+description: "This is a QGIS2webmap leaflet webmap created for an advanced GIS course."
 ---
 
 ## Project description
