@@ -26,7 +26,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/baltimorewealthwaste/</guid>
-      <description>Project description This project was in partnership with Benjamin Franklin High School in Baltimore, MD. The goal was to analyze patterns between income, and generated waste and display them in an artistic and readable infographic. We found that higher income neighborhoods are producing more trash than lower income neighborhoods. Unfortunately, much of this trash is incinerated via the Wheelabrator Incinerator in the low income area of Westport. These findings were presented to city leaders to inspire change in the way we handle trash, especially in low income communities.</description>
+      <description>Project description This project was in partnership with Benjamin Franklin High School in Baltimore, MD. The goal was to analyze patterns between income, and generated waste and display them in an artistic and readable infographic. We sourced data from GRID - Arendale, BNIA (Baltimore Neighborhood Indicators Alliance), and ACS (American Community Survey). To create the infographic, we used ArcMap and Adobe Illustrator software. We found that higher income neighborhoods are producing more trash than lower income neighborhoods.</description>
     </item>
     
     <item>
@@ -35,8 +35,17 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/doesartcleanalleys/</guid>
-      <description>Project description This project analyzes the relationship between beautification of spaces and public cleanliness. We found that low-income neighborhoods habe more art murals but also more reports of dirty alleys. If given the resources, further research into this topic may reveal more obvious connections or patterns.
-View My Project PDF</description>
+      <description>Project description This project analyzes the relationship between beautification of spaces and public cleanliness. We sourced data from BNAI (Baltimore Neighborhood Indicators Alliance), OpenBaltimoe, and BOPA (Baltimore Office of Promotion and the Arts). To create the infographic, we used ArcMap and Adobe Illustrator software. We found that low-income neighborhoods habe more art murals but also more reports of dirty alleys. If given the resources, further research into this topic may reveal more obvious connections or patterns.</description>
+    </item>
+    
+    <item>
+      <title>Bahama Oriole Conservation Research</title>
+      <link>https://sierrab1.github.io/projects/qgiswebmap/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sierrab1.github.io/projects/qgiswebmap/</guid>
+      <description>Project description This webpage was created for an advanced GIS class using QGIS software and the qgis2webmap plug in. The map shows 2016 data for all vacant lots in Baltimore city. It gived information like neighborhood name and size of vacant lot.
+View My Project</description>
     </item>
     
   </channel>
