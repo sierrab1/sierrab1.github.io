@@ -60,7 +60,7 @@
                         <td colspan="2">' + (feature.properties['image'] !== null ? '<img src="images/' + String(feature.properties['image']).replace(/[\\\/:]/g, '_').trim() + '">' : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['sounds'] !== null ? '<img src="images/' + String(feature.properties['sounds']).replace(/[\\\/:]/g, '_').trim() + '">' : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['sounds'] !== null ? '<audio controls><source src="https://bbyrd2.github.io/sounds/' + String(feature.properties['sounds']).replace(/[\\\/:]/g, '_').trim() + '" type="audio/mpeg">Your browser does not support the audio element.</audio>' : '') + '</td>\
                     </tr>\
                     <tr>\
                         <td colspan="2">' + (feature.properties['region'] !== null ? Autolinker.link(feature.properties['region'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
