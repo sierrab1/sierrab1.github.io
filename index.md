@@ -10,6 +10,9 @@
 [<img src="../images/clipcap.png?raw=true"/>](projects/project2)
 
 ---
+[Bird Map](/bird_map)
+[<img src="../images/birdthumbnail.png?raw=true"/>](/bird_map)
+---
 [Chesapeake Bay Conservation Areas in Harford County](/qgis2web_2020_02_16-11_15_26_455775)
 [<img src="../images/harcooo.png?raw=true"/>](/qgis2web_2020_02_16-11_15_26_455775)
 
