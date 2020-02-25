@@ -638,3 +638,5 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	margin-left: -12px;
 	border-right-color: #fff;
 	}
+.leaflet-popup-content img {max-width: 300px;}
+.leaflet-popup-content {width: 300px;}
