@@ -49,6 +49,16 @@ View My Project</description>
     </item>
     
     <item>
+      <title>Coronovirus: Showing the spread through density mapping</title>
+      <link>https://sierrab1.github.io/projects/coronavirusspread/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sierrab1.github.io/projects/coronavirusspread/</guid>
+      <description>Project description This research will focus on displaying the spread of the highly-contagious COVID-19 throught the world. To do this, I will create a time-series of density maps that show the density of coronavirus cases for each country every two weeks, starting at patient zero. Click the link below to view my project proposal and data sources.
+View My Project Proposal</description>
+    </item>
+    
+    <item>
       <title>About Sierra</title>
       <link>https://sierrab1.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
