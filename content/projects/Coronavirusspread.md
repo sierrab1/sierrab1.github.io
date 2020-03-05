@@ -3,7 +3,7 @@ showonlyimage: true
 draft: false
 image: "corona.PNG"
 date: "2016-11-05T18:25:22+05:30"
-title: "Coronovirus: Showing the spread through density mapping"
+title: "Coronavirus: Showing the spread through density mapping"
 weight: 5
 description: "Advanced GIS course project on a serious global health crisis."
 ---
