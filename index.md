@@ -22,8 +22,8 @@
 
 ---
 
-[Middle Earth](projects/project4)
-[<img src="../images/snip.png?raw=true"/>](projects/project4)
+[Middle Earth](projects/project5)
+[<img src="../images/snip.png?raw=true"/>](projects/project5)
 
 ---
 
