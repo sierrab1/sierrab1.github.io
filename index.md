@@ -23,7 +23,7 @@
 ---
 
 [Middle Earth](Project1_486/project1)
-[<img src="../images/top.png?raw=true"/>](Project1_486/project1)
+[<img src="../images/snip.png?raw=true"/>](Project1_486/project1)
 
 ---
 
