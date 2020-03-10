@@ -1,6 +1,6 @@
 ## Project 4
 
-Middle Earth :)
+:)
 
 ### Middle Earth Analysis 
 
