@@ -9,3 +9,5 @@
 <img src="../images/hubs_map.png?raw=true"/>
 
 <img src="../images/density_map.png?raw=true"/>
+
+[View My Project](/covid)
