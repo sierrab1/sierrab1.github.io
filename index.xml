@@ -58,6 +58,15 @@ View My Project</description>
     </item>
     
     <item>
+      <title>COVID19 Tweets V Hiking Tweets</title>
+      <link>https://sierrab1.github.io/projects/tweetswebmap/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sierrab1.github.io/projects/tweetswebmap/</guid>
+      <description>Project description This leaflet webpage was created for an advanced GIS class using QGIS software and the qgis2webmap plug-in. The map shows Twitter tweets out of a week in March during the 2020 COVID-19 pandemic. I chose to compare tweets about COVID19 and tweets about hiking, as many people are spending time outside because it is a safer activity that allows people to get out of their houses during the social distancing restrictions.</description>
+    </item>
+    
+    <item>
       <title>About Sierra</title>
       <link>https://sierrab1.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
