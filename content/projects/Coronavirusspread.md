@@ -14,3 +14,5 @@ This research will focus on displaying the spread of the highly-contagious COVID
 
 
 [View My Project](/gif/coronavirus.gif)
+
+Cover Image Credits: CNN
