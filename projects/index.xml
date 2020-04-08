@@ -66,5 +66,14 @@ View My Project</description>
       <description>Project description This leaflet webpage was created for an advanced GIS class using QGIS software and the qgis2webmap plug-in. The map shows Twitter tweets out of a week in March during the 2020 COVID-19 pandemic. I chose to compare tweets about COVID19 and tweets about hiking, as many people are spending time outside because it is a safer activity that allows people to get out of their houses during the social distancing restrictions.</description>
     </item>
     
+    <item>
+      <title>Coronavirus (COVID-19): Showing the spread through density mapping</title>
+      <link>https://sierrab1.github.io/projects/covid-19_airpollution/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://sierrab1.github.io/projects/covid-19_airpollution/</guid>
+      <description>Project description These mapping products display several variables in their relation to COVID-19&amp;rsquo;s impact on human health and lifestyle. One map series shows the change in atmospheric NO2 concentrations, a common air pollutant emmitted from the combustion of fossil fuels over a crucial time period in which COVID-19 spread across the United States. The other map series shows changes in air traffic by means of flight routes over the same period of time.</description>
+    </item>
+    
   </channel>
 </rss>
