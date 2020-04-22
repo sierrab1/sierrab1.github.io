@@ -17,7 +17,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/bahoresearch/</guid>
-      <description>Project description This research resulted from my time with the Bahama Oriole Project, a collaboration between the Omland Lab of the University of Maryland, Baltimore County, and the Bahamas National Trust. The Bahama Oriole is a critically endangered songbird endemic to Andros island. Known as a brood parasite, the shiny cowbird lays its eggs in oriole nests to be raised by the oriole parents. To ensure parasitism success, cowbirds peck and kill existing oriole eggs.</description>
+      <description>Project Description This research resulted from my time with the Bahama Oriole Project, a collaboration between the Omland Lab of the University of Maryland, Baltimore County, and the Bahamas National Trust. The Bahama Oriole is a critically endangered songbird endemic to Andros island. Known as a brood parasite, the shiny cowbird lays its eggs in oriole nests to be raised by the oriole parents. To ensure parasitism success, cowbirds peck and kill existing oriole eggs.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/baltimorewealthwaste/</guid>
-      <description>Project description This project was in partnership with Benjamin Franklin High School in Baltimore, MD. The goal was to analyze patterns between income, and generated waste and display them in an artistic and readable infographic. We sourced data from GRID - Arendale, BNIA (Baltimore Neighborhood Indicators Alliance), and ACS (American Community Survey). To create the infographic, we used ArcMap and Adobe Illustrator software. We found that higher income neighborhoods are producing more trash than lower income neighborhoods.</description>
+      <description>Project Description This project was in partnership with Benjamin Franklin High School in Baltimore, MD. The goal was to analyze patterns between income, and generated waste and display them in an artistic and readable infographic. We sourced data from GRID - Arendale, BNIA (Baltimore Neighborhood Indicators Alliance), and ACS (American Community Survey). To create the infographic, we used ArcMap and Adobe Illustrator software. We found that higher income neighborhoods are producing more trash than lower income neighborhoods.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/doesartcleanalleys/</guid>
-      <description>Project description This project analyzes the relationship between beautification of spaces and public cleanliness. We sourced data from BNAI (Baltimore Neighborhood Indicators Alliance), OpenBaltimoe, and BOPA (Baltimore Office of Promotion and the Arts). To create the infographic, we used ArcMap and Adobe Illustrator software. We found that low-income neighborhoods habe more art murals but also more reports of dirty alleys. If given the resources, further research into this topic may reveal more obvious connections or patterns.</description>
+      <description>Project Description This project analyzes the relationship between beautification of spaces and public cleanliness. We sourced data from BNAI (Baltimore Neighborhood Indicators Alliance), OpenBaltimoe, and BOPA (Baltimore Office of Promotion and the Arts). To create the infographic, we used ArcMap and Adobe Illustrator software. We found that low-income neighborhoods habe more art murals but also more reports of dirty alleys. If given the resources, further research into this topic may reveal more obvious connections or patterns.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/qgiswebmap/</guid>
-      <description>Project description This leaflet webpage was created for an advanced GIS class using QGIS software and the qgis2webmap plug-in. The map shows 2016 data for all vacant lots in Baltimore city. It gives information like neighborhood name and size of vacant lot.
+      <description>Project Description This leaflet webpage was created for an advanced GIS class using QGIS software and the qgis2webmap plug-in. The map shows 2016 data for all vacant lots in Baltimore city. It gives information like neighborhood name and size of vacant lot.
 View My Project</description>
     </item>
     
@@ -54,7 +54,7 @@ View My Project</description>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/coronavirusspread/</guid>
-      <description>Project description This research will focus on displaying the spread of the highly-contagious COVID-19 throught the world. To accomplish this, I created a time-series of density maps that show the density of coronavirus cases globally. The timescale I use is every two to three days from 01/22/2020 - 02/17/2020. This timeseries was created with data from Johns Hopkins Github repository, using QGIS and GIMP software. Click the link below to view my project.</description>
+      <description>Project Description This research will focus on displaying the spread of the highly-contagious COVID-19 throught the world. To accomplish this, I created a time-series of density maps that show the density of coronavirus cases globally. The timescale I use is every two to three days from 01/22/2020 - 02/17/2020. This timeseries was created with data from Johns Hopkins Github repository, using QGIS and GIMP software. Click the link below to view my project.</description>
     </item>
     
     <item>
@@ -63,16 +63,16 @@ View My Project</description>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/tweetswebmap/</guid>
-      <description>Project description This leaflet webpage was created for an advanced GIS class using QGIS software and the qgis2webmap plug-in. The map shows Twitter tweets out of a week in March during the 2020 COVID-19 pandemic. I chose to compare tweets about COVID19 and tweets about hiking, as many people are spending time outside because it is a safer activity that allows people to get out of their houses during the social distancing restrictions.</description>
+      <description>Project Description This leaflet webpage was created for an advanced GIS class using QGIS software and the qgis2webmap plug-in. The map shows Twitter tweets out of a week in March during the 2020 COVID-19 pandemic. I chose to compare tweets about COVID19 and tweets about hiking, as many people are spending time outside because it is a safer activity that allows people to get out of their houses during the social distancing restrictions.</description>
     </item>
     
     <item>
-      <title>Coronavirus (COVID-19): Showing the spread through density mapping</title>
+      <title>COVID-19 Stay-at-Home Directive &amp; Air Pollution in NYC</title>
       <link>https://sierrab1.github.io/projects/covid-19_airpollution/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://sierrab1.github.io/projects/covid-19_airpollution/</guid>
-      <description>Project description These mapping products display several variables in their relation to COVID-19&amp;rsquo;s impact on human health and lifestyle. One map series shows the change in atmospheric NO2 concentrations, a common air pollutant emmitted from the combustion of fossil fuels over a crucial time period in which COVID-19 spread across the United States. The other map series shows changes in air traffic by means of flight routes over the same period of time.</description>
+      <description>Project Description These mapping products display atmospheric pollution over NYC in its relation to COVID-19&amp;rsquo;s impact on human lifestyle and environmental health. One map series shows the change in atmospheric NO2 concentrations, a common air pollutant emmitted from the combustion of fossil fuels over a crucial time period in which COVID-19 spread across the United States. The other map shows all US states that have issued stay-at-home directives as of April 19, 2020.</description>
     </item>
     
   </channel>
