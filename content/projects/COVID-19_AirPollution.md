@@ -18,6 +18,7 @@ New York is one of the states that has issued a stay-at-home directive. Similar 
 
 
 [View My Leaflet Webmap*](/webmap3)
+
 *webmap compatible with Mozilla Firefox and Google Chrome web browsers
 
 [View the States Directive Map](/pdf/statesmap.pdf)
