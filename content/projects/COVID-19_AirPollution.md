@@ -21,5 +21,5 @@ New York is one of the states that has issued a stay-at-home directive. Similar 
 
 *webmap compatible with Mozilla Firefox and Google Chrome web browsers
 
-[View the States with Stay-at-Home Directives Map](/pdf/statesmap.pdf)
+[View the States with Stay-at-Home Directives Map](/pdf/states_map.pdf)
 
